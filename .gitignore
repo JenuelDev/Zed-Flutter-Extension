@@ -1,0 +1,6 @@
+# Upstream source checkouts used for research.
+/.reference/
+
+# Rust and Zed build output.
+/target/
+/extension.wasm

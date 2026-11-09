@@ -1,0 +1,11 @@
+[
+  {
+    "label": "Flutter: launch application",
+    "adapter": "Dart",
+    "type": "flutter",
+    "request": "launch",
+    "program": "lib/main.dart",
+    "cwd": "$ZED_WORKTREE_ROOT",
+    "flutterMode": "debug"
+  }
+]
